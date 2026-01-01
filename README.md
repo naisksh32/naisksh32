@@ -2,28 +2,25 @@
 
 # 김성현 (Kim Seong Hyun)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18031F&width=435&lines=Hi%2C+there~!!;Welcome+to+my+GitHub+%3A))](https://git.io/typing-svg)
 
-### 👋 Hi~!  
-안녕하세요! 개발 꿈나무 김성현 입니다.
+### Hi, I'm SeongHyun Kim
 
-파이썬과 머신러닝, 딥러닝에 관심이 많고, 앞으로 이를 연구분야에 응용하고 싶습니다.
-
-Hello! This is Kim Seong-hyun, a developer dreamer. 
-
-I am very interested in Python, Machine Learning, and Deep Learning, and would like to apply them to research in the future.
+I graduated from Kyung Hee University with a major in Materials Science and Engineering. Currently, I have a strong interest in Machine Learning and Deep Learning, and I primarily use Python for data analysis.
 
 
+## 🛠 Tech Stack
 
-### History?
-> Later Update
+<!-- https://img.shields.io/badge/표시할텍스트-배경색?style=for-the-badge&logo=로고이름&logoColor=로고색 -->
 
+| Category | Skills |
+| :--- | :--- |
+| **Languages &<br>Frontend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff) ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffffff) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=ffffff) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff) ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffffff) ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff) |
+| **AI &<br>Data Science** | ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=ffffff) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=ffffff) ![Seaborn](https://img.shields.io/badge/seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffffff) ![Plotly](https://img.shields.io/badge/plotly-7A76FF?style=for-the-badge&logo=plotly&logoColor=ffffff) <br> ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff) ![ScikitLearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=ffffff) ![PyCaret](https://img.shields.io/badge/pycaret-E34F26?style=for-the-badge&logo=pycaret&logoColor=ffffff) ![Optuna](https://img.shields.io/badge/optuna-002C76?style=for-the-badge&logo=optuna&logoColor=ffffff) ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=ffffff) |
+| **Infra, DB &<br>DevOps** | ![AWS](https://img.shields.io/badge/AWS-F7931E?style=for-the-badge&logo=AWS&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff) ![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=ffffff) <br> ![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=ffffff) ![Logstash](https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=ffffff) ![Kibana](https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=ffffff) <br> ![Airflow](https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=ffffff) ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff) ![MLflow](https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=ffffff) |
+| **Tools** | ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-3670A0?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff) ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff) ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff) ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) |
 
-
-### Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-
-
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
+---
+### 📌 Overview 📌
+![Solve.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=naisksh32)
