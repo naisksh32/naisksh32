@@ -13,8 +13,6 @@ I graduated from Kyung Hee University with a major in Materials Science and Engi
 
 <!-- https://img.shields.io/badge/표시할텍스트-배경색?style=for-the-badge&logo=로고이름&logoColor=로고색 -->
 
-## 🛠 Tech Stack
-
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff) ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffffff) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
@@ -29,5 +27,5 @@ I graduated from Kyung Hee University with a major in Materials Science and Engi
 | **Tools & IDE** | ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-3670A0?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff) ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff) ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff) ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) |
 
 
-## 📌 Overview 📌
+## 📌 Code Skill
 ![Solve.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=naisksh32)
