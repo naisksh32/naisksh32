@@ -27,5 +27,6 @@ I graduated from Kyung Hee University with a major in Materials Science and Engi
 | **Tools & IDE** | ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-3670A0?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff) ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff) ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff) ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff) |
 
 
-## 📌 Code Skill
+## 📌 Code Level
 ![Solve.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=naisksh32)
+
