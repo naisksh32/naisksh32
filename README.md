@@ -30,3 +30,5 @@ I graduated from Kyung Hee University with a major in Materials Science and Engi
 ## 📌 Code Level
 ![Solve.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=naisksh32)
 
+
+## 📼Record
