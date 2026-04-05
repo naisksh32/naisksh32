@@ -4,15 +4,14 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18031F&width=435&lines=Hi%2C+there~!!;Welcome+to+my+GitHub+%3A)
 
-### "신소재 공학과 AI 엔지니어링의 시너지"
+### "Synergizing Materials Science with Edge AI Engineering"
 
-저는 경희대학교 정보전자신소재공학 전공 지식과 심화 AI 엔지니어링 기술을 아우르는 독보적인 융합 전문성을 보유하고 있습니다. 저의 이러한 학문적 배경은 탄탄한 분석적 사고의 기반이 되었으며, 현재 이를 바탕으로 정교한 머신러닝 솔루션을 설계하고 있습니다.
+I hold a unique dual-expertise in Information, Electronics & Materials Engineering from Kyung Hee University and Advanced AI Engineering. My background provides me with a rigorous analytical framework that I now apply to architecting sophisticated Machine Learning solutions.
 
-현재는 복잡한 AI 모델과 실제 하드웨어 간의 간극을 줄이기 위해 임베디드 시스템 분야에 집중하고 있습니다. 제한된 하드웨어 환경에서도 높은 성능을 발휘할 수 있도록 AI 모델을 최적화하고 온디바이스(On-device)에 배포하는 것이 저의 핵심 주력 분야입니다.
+Currently, I am specializing in Embedded Systems to bridge the gap between complex AI models and real-world hardware. My core focus is optimizing and deploying AI on-device, ensuring high performance within constrained environments.
 
- - 🚀 핵심 역량: LLM 파인튜닝 (SLM), 실시간 데이터 파이프라인 구축 (Airflow), MLOps
- - 🏆 주요 경험: 우리FISA AI 엔지니어링 과정 수료(우수 프로젝트 수상), 현재 SSAFY에서 임베디드 AI 역량 고도화 중
-
+ - 🚀 Expertise: LLM Fine-tuning (SLM), Real-time Data Pipelines (Airflow), and MLOps.
+ - 🏆 Experience: Completed intensive AI Engineering at WooriFISA (Award-winning projects) and currently advancing my skills in Embedded AI at SSAFY.
 
 
 ## 🪪 History
